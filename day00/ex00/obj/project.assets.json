@@ -20,7 +20,7 @@
       "outputPath": "/Users/enena/school21/piscine-CS.NET/day00/ex00/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/enena/.config/NuGet/NuGet.Config"
+        "/Users/enena/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
