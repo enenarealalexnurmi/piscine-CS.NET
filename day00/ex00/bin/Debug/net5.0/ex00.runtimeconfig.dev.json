@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "/Users/enena/.dotnet/store/|arch|/|tfm|",
-      "/Users/enena/.nuget/packages"
-    ]
-  }
-}
